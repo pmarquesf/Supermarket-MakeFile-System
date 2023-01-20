@@ -1,2 +1,3 @@
 # Supermarket-MakeFile-System
-A Supermarket system developed in C using Makefile
+
+Sistema de supermercado desenvolvido utilizando conceitos avançados da linguagem C e utilizando os métodos de automatização de processos Makefile.
